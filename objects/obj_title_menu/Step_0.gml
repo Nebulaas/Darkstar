@@ -9,18 +9,17 @@ if (menu_position > array_length(menu) - 1) menu_position = 0
 
 var _confirm_input;
 _confirm_input = max(keyboard_check(vk_space),keyboard_check(vk_enter),0);
-if (_confirm_input == 1 && !keyboard_check(vk_escape)) scr_quick_menu();
+if (_confirm_input == 1 && !keyboard_check(vk_escape)) scr_title_menu();
 
-function scr_quick_menu()
+function scr_title_menu()
 {
 	switch(menu_position)
 	{
-		case 0: instance_destroy(); break;
+		case 0: scr_fade_to_room(rm_game, 60, c_black); break;
 		case 1: break;
 		case 2: break;
 		case 3: break;
-		case 4: break;
-		case 5: game_end(); break;
+		case 4: game_end(); break;
 		default: break;
 	}
 }

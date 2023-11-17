@@ -13,7 +13,10 @@
     "name": "Menu",
     "path": "folders/Objects/Menu.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_menu_parent",
+    "path": "objects/obj_menu_parent/obj_menu_parent.yy",
+  },
   "persistent": true,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

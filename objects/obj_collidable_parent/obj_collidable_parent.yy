@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_collidable",
+  "name": "obj_collidable_parent",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

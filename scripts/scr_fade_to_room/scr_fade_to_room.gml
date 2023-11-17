@@ -14,4 +14,4 @@ with (_instance)
 	color = _color;
 }
 
-instance_destroy(obj_title_menu);
+instance_destroy(obj_menu_parent);

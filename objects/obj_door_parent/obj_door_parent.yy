@@ -1,20 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_wall_front",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_door_parent",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "World",
-    "path": "folders/Objects/World.yy",
+    "name": "Functional",
+    "path": "folders/Objects/Functional.yy",
   },
-  "parentObjectId": {
-    "name": "obj_collidable_parent",
-    "path": "objects/obj_collidable_parent/obj_collidable_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -30,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_wall_default_front",
-    "path": "sprites/spr_wall_default_front/spr_wall_default_front.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

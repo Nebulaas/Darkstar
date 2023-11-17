@@ -13,7 +13,10 @@
     "name": "VFX",
     "path": "folders/Objects/VFX.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_transition_parent",
+    "path": "objects/obj_transition_parent/obj_transition_parent.yy",
+  },
   "persistent": true,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

@@ -12,8 +12,8 @@
     "path": "folders/Objects/World.yy",
   },
   "parentObjectId": {
-    "name": "obj_collidable",
-    "path": "objects/obj_collidable/obj_collidable.yy",
+    "name": "obj_door_parent",
+    "path": "objects/obj_door_parent/obj_door_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

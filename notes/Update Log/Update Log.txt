@@ -39,12 +39,13 @@ dd/mm/yyyy [v0.0.0.0abc]
 	> player now collides with doors
 	> player can no longer move while going between rooms
 
-16/11/2023 [v0.0.0.4pre-dev]
-- Template
+17/11/2023 [v0.0.0.4pre-dev]
+- Title Screen!
 - Added:
-	>
+	> source control now implemented, github link: https://github.com/TheLegion00/Darkstar
+	> title screen that can start the game
+	> new object hierarchy for efficiency
 - Changed:
 	> new collision system, wallhugging is now possible :]
-	> all in-world objects now have automatic collision 
-- Removed:
-	>
+	> all in-world objects now have automatic collision
+	> quick menu can now take you back to the title screen instead of closing the app
