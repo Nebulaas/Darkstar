@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_text_options",
-  "bbox_bottom": 38,
+  "bbox_bottom": 42,
   "bbox_left": 5,
   "bbox_right": 61,
-  "bbox_top": 17,
+  "bbox_top": 21,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Menu",
-    "path": "folders/Sprites/Menu.yy",
+    "name": "Text",
+    "path": "folders/Sprites/Menu/Text.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

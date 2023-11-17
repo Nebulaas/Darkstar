@@ -1,0 +1,50 @@
+dd/mm/yyyy [v0.0.0.0abc]
+- Template
+- Added:
+	>
+- Changed:
+	>
+- Removed:
+	>
+
+---------------------------------------------------------------------------------------------------------------------
+
+14/11/2023 [v0.0.0.1pre-dev]
+- Started Project
+- Added:
+	> player character with movement
+	> player animations
+	> main room
+
+15/11/2023 [v0.0.0.2pre-dev]
+- Room Transitions and Menus!
+- Added:
+	> sprites for player
+	> doors
+	> transition effects
+	> more rooms
+	> quick access menu, closeable and openable, with quit game option (*still a work in progress)
+- Changed:
+	> sprite now faces first movement direction while still pressed
+- Removed:
+	> player animations (*very rudimentary and unnessecary)
+
+16/11/2023 [v0.0.0.3pre-dev]
+- Collision and Objects
+- Added:
+	> front and side walls
+	> object collision
+	> the update log :D
+- Changed:
+	> player now collides with doors
+	> player can no longer move while going between rooms
+
+16/11/2023 [v0.0.0.4pre-dev]
+- Template
+- Added:
+	>
+- Changed:
+	> new collision system, wallhugging is now possible :]
+	> all in-world objects now have automatic collision 
+- Removed:
+	>
